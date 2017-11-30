@@ -31,8 +31,7 @@ Monday | Wednesday | Project Milestone | HW
 01/29: Naive Bayes & Support Vector Machines | 01/31: Clustering | | HW 2 Due (Wed) 
 02/05: Dimensionality Reduction | 02/07: Natural Language Processing Part 1 | | HW 3 Assigned (Wed) 
 02/12: Natural Language Processing Part 2 | 02/14: Deep Learning | | HW 3 Due (Wed) 
-02/19: Machine Learning Group Challenge | 02/21: TBD | | 
-02/26: Project work & review session | 02/28: Final Project Presentations | Final Project due (Wed) | 
+02/19: Project work & review session | 02/21: Final Project Presentations | Final Project due (Wed) | 
 
 ### Installation and Setup
 * Install the [Anaconda distribution](http://continuum.io/downloads) of Python 2.7x.
