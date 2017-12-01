@@ -1,12 +1,11 @@
 # DS-SF-41 Course Repository
-Course materials for General Assembly's Data Science course in San Francisco (12/4/17 - 2/28/17)
+Course materials for General Assembly's Data Science course in San Francisco (12/4/17 - 2/21/17)
 
 **Instructor:** [Trevor Lindsay](https://generalassemb.ly/instructors/trevor-lindsay/15376)
 
+**Course Times:**
 
-**Course Times**
-
-Monday/Wednesday: 6:30pm - 9:30pm
+Mon/Wed: 6:30pm - 9:30pm
 
 **Office hours:** 
 
@@ -18,20 +17,20 @@ All courses / office hours will be held at GA, 225 Bush Street
 
 **[Course Project Examples](project-examples.md)**
 
-Monday | Wednesday | Project Milestone | HW
---- | --- | --- | ---
-12/4: Introduction / Expectations / Intro to Data Science | 12/6: Numpy & Pandas Part 1
-12/11: Pandas Part 2 / Plotting | 12/13: Exploratory Data Analyis | | HW 1 Assigned (Wed)
-12/18: Introduction to Machine Learning & Decision Trees | 12/20: Machine Learning Topics: Cross Validation & Feature Engineering | | HW 1 Due (Wed) 
-12/25: Holiday (No Class) | 12/27: Holiday (No Class) | | 
-01/01: Holiday (No Class) | 01/03: K-Nearest Neighbors | | 
-01/08: Logistic Regression | 01/10: Linear Regression | | 
-01/15: Holiday (No Class) | 01/17: Regression 2: Ridge, lasso, regularization | | 
-01/22: Random Forest/Gradient Boosting/XGBoost | 01/24: Advanced Sklearn: Grid Search, Pipelines, & Feature Unions | Project Proposal due (Wed) | HW 2 Assigned (Wed)
-01/29: Naive Bayes & Support Vector Machines | 01/31: Clustering | | HW 2 Due (Wed) 
-02/05: Dimensionality Reduction | 02/07: Natural Language Processing Part 1 | | HW 3 Assigned (Wed) 
-02/12: Natural Language Processing Part 2 | 02/14: Deep Learning | | HW 3 Due (Wed) 
-02/19: Project work & review session | 02/21: Final Project Presentations | Final Project due (Wed) | 
+Week | Monday | Wednesday | Project Milestone | HW (Wed.)
+--- | --- | --- | --- | ---
+12/4 | Introduction <br/> Expectations <br/> Intro to Data Science | Numpy <br> Pandas Part 1
+12/11 | Pandas Part 2 <br> Plotting | Exploratory Data Analyis | | HW 1 Assigned
+12/18 | Intro to Machine Learning <br> Decision Trees | Cross Validation <br> Feature Engineering | | HW 1 Due
+12/25 | Holiday (No Class) | Holiday (No Class) | | 
+01/01 | Holiday (No Class) | K-Nearest Neighbors | | 
+01/08 | Linear Regression | Logistic Regression | | 
+01/15 | Holiday (No Class) | Regression 2: Ridge, lasso, regularization | | 
+01/22 | Random Forest <br> Gradient Boosting <br> XGBoost | Advanced Sklearn: Grid Search, Pipelines, & Feature Unions | Project Proposal Due (Wed) | HW 2 Assigned
+01/29 | Naive Bayes <br> Support Vector Machines | Clustering | | HW 2 Due 
+02/05 | Dimensionality Reduction | Natural Language Processing Part 1 | | HW 3 Assigned
+02/12 | Natural Language Processing Part 2 | Deep Learning | | HW 3 Due
+02/19 | Project Work <br> Review Session | Final Project Presentations | Final Project due (Wed) | 
 
 ### Installation and Setup
 * Install the [Anaconda distribution](http://continuum.io/downloads) of Python 2.7x.
