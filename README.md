@@ -19,17 +19,17 @@ All courses / office hours will be held at GA, 225 Bush Street
 
 Week | Monday | Wednesday | Project Milestone | HW (Wed.)
 --- | --- | --- | --- | ---
-12/4 | Introduction <br/> Expectations <br/> Intro to Data Science | Numpy <br> Pandas Part 1
-12/11 | Pandas Part 2 <br> Plotting | Exploratory Data Analyis | | HW 1 Assigned
-12/18 | Intro to Machine Learning <br> Decision Trees | Cross Validation <br> Feature Engineering | | HW 1 Due
+12/4 | Introduction <br/> Intro to Data Science | Numpy <br> Pandas
+12/11 | Plotting <br> Exploratory Data Analysis | Probability & Statistics <br> Experimentation | | HW 1 Assigned
+12/18 | Data Investigations <br> Intro to Machine Learning | Linear Regression | | HW 1 Due
 12/25 | Holiday (No Class) | Holiday (No Class) | | 
-01/01 | Holiday (No Class) | K-Nearest Neighbors | | 
-01/08 | Linear Regression | Logistic Regression | | 
-01/15 | Holiday (No Class) | Regression 2: Ridge, lasso, regularization | | 
-01/22 | Random Forest <br> Gradient Boosting <br> XGBoost | Advanced Sklearn: Grid Search, Pipelines, & Feature Unions | Project Proposal Due (Wed) | HW 2 Assigned
-01/29 | Naive Bayes <br> Support Vector Machines | Clustering | | HW 2 Due 
-02/05 | Dimensionality Reduction | Natural Language Processing Part 1 | | HW 3 Assigned
-02/12 | Natural Language Processing Part 2 | Deep Learning | | HW 3 Due
+01/01 | Holiday (No Class) | Evaluating Model Fit <br> Feature Engineering | | 
+01/08 | Logistic Regression | K-Nearest Neighbors | | 
+01/15 | Holiday (No Class) | Decision Trees <br> Random Forest | | 
+01/22 | Gradient Boosting <br> Naive Bayes | Dimensionality Reduction| Project Proposal Due (Wed) | HW 2 Assigned
+01/29 | Clustering | Time Series Modeling | | HW 2 Due 
+02/05 | Natural Language Processing | Neural Networks | | HW 3 Assigned
+02/12 | Putting it All Together 1 | Putting it All Together 2 | | HW 3 Due
 02/19 | Project Work <br> Review Session | Final Project Presentations | Final Project due (Wed) | 
 
 ### Installation and Setup
