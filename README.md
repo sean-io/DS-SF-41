@@ -21,15 +21,15 @@ Week | Monday | Wednesday | Project Milestone | HW (Wed.)
 --- | --- | --- | --- | ---
 12/4 | Introduction <br/> Intro to Data Science | Numpy <br> Pandas
 12/11 | More Pandas <br> Plotting | Exploratory Data Analysis | | HW 1 Assigned
-12/18 | Probability & Statistics | Intro to Machine Learning | | HW 1 Due
+12/18 | Probability & Statistics | Putting It All Together Part 1 | | HW 1 Due
 12/25 | Holiday (No Class) | Holiday (No Class) | | 
-01/01 | Holiday (No Class) | Linear Regression | | 
+01/01 | Holiday (No Class) | Intro to Machine Learning <br> Linear Regression | | 
 01/08 | Logistic Regression | K-Nearest Neighbors | | 
 01/15 | Holiday (No Class) | Decision Trees <br> Random Forest | | 
 01/22 | Gradient Boosting <br> Naive Bayes | Evaluating Model Fit <br> Feature Engineering | Project Proposal Due (Wed) | HW 2 Assigned
 01/29 | Clustering | Time Series Modeling | | HW 2 Due 
 02/05 | Natural Language Processing | Neural Networks | | HW 3 Assigned
-02/12 | Putting it All Together 1 | Putting it All Together 2 | | HW 3 Due
+02/12 | Putting it All Together Part 2 | Putting it All Together Part 3 | | HW 3 Due
 02/19 | Project Work <br> Review Session | Final Project Presentations | Final Project due (Wed) | 
 
 ### Installation and Setup
