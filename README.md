@@ -35,7 +35,7 @@ Week | Date | Class | Due
 | 5  | 1/10  | [Review Session] |
 |    | 1/15  | *Holiday - No Class* |
 | 5  | 1/17  | Advanced Metrics & Communicating Results |
-| 6  | 1/22  | K-Nearest Neighbors <br> Decision Trees <br> Random Forest | Project Proposeal
+| 6  | 1/22  | K-Nearest Neighbors <br> Decision Trees <br> Random Forest | Project Proposal
 | 6  | 1/24  | [Review Session] |
 |    |       | **Unit 3: Data Science in the Real World** |
 | 7  | 1/29  | Feature Engineering |
