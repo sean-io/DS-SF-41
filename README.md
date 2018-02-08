@@ -35,17 +35,17 @@ Week | Date | Class | Due
 | 5  | 1/10  | [Review Session] |
 |    | 1/15  | *Holiday - No Class* |
 | 5  | 1/17  | Advanced Metrics & Communicating Results |
-| 6  | 1/22  | K-Nearest Neighbors <br> Decision Trees <br> Random Forest | Project Proposeal
+| 6  | 1/22  | K-Nearest Neighbors <br> Decision Trees <br> Random Forest | Project Proposal
 | 6  | 1/24  | [Review Session] |
 |    |       | **Unit 3: Data Science in the Real World** |
 | 7  | 1/29  | Feature Engineering |
 | 7  | 1/31  | Unsupervised Machine Learning |
-| 8  | 2/5   | Time Series Modeling | HW 2
+| 8  | 2/5   | Time Series Modeling |
 | 8  | 2/7   | Natural Language Processing |
-| 9  | 2/12  | Recommendation Systems |
-| 9  | 2/14  | Survey of Advanced Topics | HW 3
+| 9  | 2/12  | Recommendation Systems | HW 2
+| 9  | 2/14  | Survey of Advanced Topics |
 |    | 2/19  | *Holiday - No Class* |
-| 10 | 2/21  | [Review Session] |
+| 10 | 2/21  | [Review Session] | HW 3
 | 10 | 2/26  | Final Project Presentations | Final Project
 
 ### Installation and Setup
